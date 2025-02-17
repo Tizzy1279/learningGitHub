@@ -7,4 +7,4 @@ jobs:
       - name: Checkout Repo
         uses: actions/checkout@v3
       - name: Run Feed Generator
-        uses: Tizzy1279/learningGitHub-generator@main
+        uses: Tizzy1279/learningGitHub-Generator@main
